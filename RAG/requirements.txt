@@ -1,0 +1,10 @@
+
+langchain
+langchain-community
+langchain-ollama>=0.1.2
+langchain-chroma>=0.2.6
+pypdf
+chromadb
+sentence-transformers
+ollama
+langchain-huggingface
